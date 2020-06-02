@@ -1,6 +1,6 @@
 # Miembros
 
-* Nick Fury
+* Nick Fury parche del ojo
 * Capitan America
 * Black panther
 * Black Widow
