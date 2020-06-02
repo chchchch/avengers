@@ -1,3 +1,4 @@
 # Villanos
 
-* Investigar al Dr. Doom
+* Dr. Doom
+* Capitán America
